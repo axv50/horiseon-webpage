@@ -3,11 +3,18 @@ description: horiseon webpage
 author: Alexis Vega
 created: 2021 May 16
 
-
 horiseon
 
 Readme
 
-horiseon is a service that will help you transform your web presence into a dynamic force. It will increase all aspects of your comapany and give you a head start above the competion in this web based economy.
+Description:
+First challenge, HTML CSS Git Challenge: Code Refactor. 
 
 Site Screen shot: 
+https://github.com/axv50/horiseon-webpage/blob/main/Develop/assets/images/Screenshot%20(2).png
+
+Git Hub Repo:
+https://github.com/axv50/horiseon-webpage
+
+Working Site:
+https://axv50.github.io/horiseon-webpage/
